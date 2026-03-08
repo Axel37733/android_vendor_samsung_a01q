@@ -17,9 +17,6 @@ ro.vendor.build.id=SP1A.210812.016
 ro.vendor.build.tags=release-keys
 ro.vendor.build.type=user
 ro.vendor.build.version.incremental=A015MUBS5CWI4
-ro.vendor.build.version.release=12
-ro.vendor.build.version.release_or_codename=12
-ro.vendor.build.version.sdk=31
 ####################################
 # from out/target/product/a01q/obj/ETC/android_info_prop_intermediates/android_info.prop
 ####################################
